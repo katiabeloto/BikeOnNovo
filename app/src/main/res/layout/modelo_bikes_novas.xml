@@ -14,7 +14,7 @@
             android:scaleType="centerCrop"
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:src="@drawable/bike10" />
+            android:src="@drawable/bikea" />
 
         <TextView
             android:id="@+id/idModeloTituloBikeNova"
@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="5sp"
-            android:text="bike10"
+            android:text="bikea"
             android:textColor="#3E2428"
             android:textSize="25sp"
             android:textStyle="bold" />
